@@ -14,7 +14,7 @@ I think it would be interesting to add a feature to start a reading session, in 
 
 If none of these features are acceptable for this assignment, there are also a few issues described on Github that I think could be solved in our timeline. They include a frontend bug with the login page, need for error messages on log in, failing tests, refactoring a few methods to be static, etc.
 
-[<img src="https://pasteboard.co/JONG1vp.png">](http://pasteboard.co/)
+[<img src="https://pasteboard.co/JONG1vp.png">]
 
 ## Building and Running the Project
 **To build:**
