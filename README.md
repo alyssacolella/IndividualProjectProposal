@@ -2,7 +2,7 @@
 
 The open source project I would like to contribute to is called ‘Book Project’. It is a web app that allows users to create an account, add books to read or already read, rate books, view statistics on reading habits, etc. The design is a simple one with navigation to book lists, goals, statistics, and settings. The project implements separate bookshelves, such as ‘to read’, ‘finished’, ‘reading’, etc to filter reading lists for a user. It tracks reading behavior and opinions to produce statistics like average rating, most and least liked book, and longest book read.
 
-![](https://ibb.co/BzN3S4G)
+![book features](https://ibb.co/BzN3S4G)
 
 The project can be found here: https://github.com/Project-Books/book-project
 
@@ -14,7 +14,7 @@ I think it would be interesting to add a feature to start a reading session, in 
 
 If none of these features are acceptable for this assignment, there are also a few issues described on Github that I think could be solved in our timeline. They include a frontend bug with the login page, need for error messages on log in, failing tests, refactoring a few methods to be static, etc.
 
-![](https://ibb.co/MPCpLTn)
+![issues](https://ibb.co/MPCpLTn)
 
 ## Building and Running the Project
 **To build:**
