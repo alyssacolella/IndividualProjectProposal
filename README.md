@@ -4,8 +4,6 @@ The open source project I would like to contribute to is called â€˜Book Projectâ
 
 <a href="https://ibb.co/BzN3S4G"><img src="https://i.ibb.co/BzN3S4G/Screen-Shot-2021-02-17-at-11-37-13-AM.png" alt="Screen-Shot-2021-02-17-at-11-37-13-AM" border="0"></a>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/MXz9B2R" data-context="false" ><a href="//imgur.com/a/MXz9B2R"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
 The project can be found here: https://github.com/Project-Books/book-project
 
 ## Project Relevance
@@ -16,7 +14,7 @@ I think it would be interesting to add a feature to start a reading session, in 
 
 If none of these features are acceptable for this assignment, there are also a few issues described on Github that I think could be solved in our timeline. They include a frontend bug with the login page, need for error messages on log in, failing tests, refactoring a few methods to be static, etc.
 
-<a href="https://ibb.co/MPCpLTn"><img src="https://i.ibb.co/MPCpLTn/Screen-Shot-2021-02-17-at-11-54-41-AM.png" alt="Screen-Shot-2021-02-17-at-11-54-41-AM" border="0"></a> 
+[<img src="https://pasteboard.co/JONG1vp.png">](http://pasteboard.co/)
 
 ## Building and Running the Project
 **To build:**
