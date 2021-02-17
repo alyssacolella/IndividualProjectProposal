@@ -1,4 +1,5 @@
-# Individual Project Proposal: Book Report
+# Individual Project Proposal: Book Project
+### Interactive web app to track reading activity
 
 The open source project I would like to contribute to is called ‘Book Project’. It is a web app that allows users to create an account, add books to read or already read, rate books, view statistics on reading habits, etc. The design is a simple one with navigation to book lists, goals, statistics, and settings. The project implements separate bookshelves, such as ‘to read’, ‘finished’, ‘reading’, etc to filter reading lists for a user. It tracks reading behavior and opinions to produce statistics like average rating, most and least liked book, and longest book read.
 
