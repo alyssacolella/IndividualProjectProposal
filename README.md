@@ -4,6 +4,8 @@ The open source project I would like to contribute to is called â€˜Book Projectâ
 
 <a href="https://ibb.co/BzN3S4G"><img src="https://i.ibb.co/BzN3S4G/Screen-Shot-2021-02-17-at-11-37-13-AM.png" alt="Screen-Shot-2021-02-17-at-11-37-13-AM" border="0"></a>
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/MXz9B2R" data-context="false" ><a href="//imgur.com/a/MXz9B2R"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 The project can be found here: https://github.com/Project-Books/book-project
 
 ## Project Relevance
