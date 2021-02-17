@@ -2,9 +2,6 @@
 
 The open source project I would like to contribute to is called ‘Book Project’. It is a web app that allows users to create an account, add books to read or already read, rate books, view statistics on reading habits, etc. The design is a simple one with navigation to book lists, goals, statistics, and settings. The project implements separate bookshelves, such as ‘to read’, ‘finished’, ‘reading’, etc to filter reading lists for a user. It tracks reading behavior and opinions to produce statistics like average rating, most and least liked book, and longest book read.
 
-![book features](https://ibb.co/BzN3S4G)
-<a href="https://ibb.co/MPCpLTn"><img src="https://i.ibb.co/MPCpLTn/Screen-Shot-2021-02-17-at-11-54-41-AM.png" alt="Screen-Shot-2021-02-17-at-11-54-41-AM" border="0"></a> 
-
 <a href="https://ibb.co/BzN3S4G"><img src="https://i.ibb.co/BzN3S4G/Screen-Shot-2021-02-17-at-11-37-13-AM.png" alt="Screen-Shot-2021-02-17-at-11-37-13-AM" border="0"></a>
 
 The project can be found here: https://github.com/Project-Books/book-project
@@ -17,7 +14,7 @@ I think it would be interesting to add a feature to start a reading session, in 
 
 If none of these features are acceptable for this assignment, there are also a few issues described on Github that I think could be solved in our timeline. They include a frontend bug with the login page, need for error messages on log in, failing tests, refactoring a few methods to be static, etc.
 
-![issues](https://ibb.co/MPCpLTn)
+<a href="https://ibb.co/MPCpLTn"><img src="https://i.ibb.co/MPCpLTn/Screen-Shot-2021-02-17-at-11-54-41-AM.png" alt="Screen-Shot-2021-02-17-at-11-54-41-AM" border="0"></a> 
 
 ## Building and Running the Project
 **To build:**
