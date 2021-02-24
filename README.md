@@ -41,3 +41,9 @@ If these features leave time to complete additional work, there are also a few i
 - Go to http://localhost:8000
 - Log in with the credentials: **username** - user, **password** - password
 
+
+
+## Whiteboard Presentation 
+<img src="https://github.com/alyssacolella/IndividualProjectProposal/blob/main/Screen%20Shot%202021-02-24%20at%2011.31.57%20AM.png"
+     alt="book project"/>
+
